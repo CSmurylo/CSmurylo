@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CSmurylo
-- 👀 I’m interested in to learn and improve;
-- 🌱 I’m currently learning sistem of information;
-- 💞️ I’m looking to collaborate on with my education;
+- 👀 I am interested in to learn and improve;
+- 🌱 I am currently learning sistem of information;
+- 💞️ I am looking to collaborate on with my education;
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
