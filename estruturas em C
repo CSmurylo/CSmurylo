@@ -1,0 +1,73 @@
+#include <stdio.h>
+
+int main() {
+    int a;
+    // estruturas de controle
+    
+    // estrutura de esolha
+    if() else;
+    if else if;
+    switch() case;
+
+        // if
+        int a = 10;
+        if(a > 20) {
+            printf("a é maior que 20");
+        } else if(a == 10) {
+            printf("a é igual a 10");
+        } else {
+            printf("a não é maior que 20");
+        }
+            // operadores lógicos
+                // && - "e" lógico
+                // || - "ou" lógico
+                // == - "igual" lógico
+                // ! - "não" lógico
+                
+                if(a > 10 && a < 20) {}
+                if(a > 10 || a < 20) {}
+                if(a == 10) {}
+                if(!a > 10) {}
+
+        // switch case
+        int b = 20;
+        switch(b) {
+            case 20:
+                printf("b é 20");
+                break;
+            case 10:
+                printf("b é 10");
+                break;
+            default:
+                printf("nenhum valor atende a b");
+        }
+    
+    // laços de repetição
+    for()
+    do{} while();
+    while(){}
+    
+        //for
+        for(int i = 1; i <= 10; i++) { // incremento
+            printf("%d", i);
+        }
+        for(int i = 10; i >= 1; i--) { // decremento
+            printf("%d", i);
+        }
+        // do-while
+        int i = 1;
+        do {
+            printf("%d", i);
+            i++;
+        } while(i >= 10);
+        
+        // while
+        int c = 0;
+        while {
+            printf("%d", c);
+        }
+    
+    // tipos
+    int, float;
+    return 0;
+}
