@@ -1,1 +1,104 @@
+//Faça um algoritmo que leia dois valores inteiros A e B, se os valores de A e B forem iguais, deverá somar os dois valores, caso contrário devera multiplicar A por B 
+//Ao final de qualquer um dos cálculos deve-se atribuir o resultado a uma variável C e imprimir seu valor na tela. (usando "if - else")
 
+#include <stdio.h>
+int main()
+{
+    int num1, num2, resultado;
+        printf("Digite o primeiro valor: ");
+        scanf("%d", &num1);
+        
+        printf("Digite o segundo valor: ");
+        scanf("%d", &num2);
+    
+    if( num1 == num2) {
+        resultado = num1 + num2;
+        printf("A soma dos valores %d e %d é: %d", num1, num2, resultado);
+    } else {
+        resultado = num1 * num2;
+        printf("A multiplicação dos valor %d e %d é: %d", num1, num2, resultado);
+    }
+
+    return 0;
+}
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//Faça um algoritmo que leia os valores de A, B, C e em seguida imprima na tela a soma entre A e B é mostre se a soma é menor que C. (usando "if - else")
+
+#include <stdio.h>
+int main()
+{
+    int a, b, c, soma;
+    printf("digite o primeiro valor: ");
+    scanf("%d", &a);
+    
+    printf("digite o primeiro valor: ");
+    scanf("%d", &b);
+    
+    printf("digite o primeiro valor: ");
+    scanf("%d", &c);
+    
+    soma = a+b;
+    
+    if(soma < c ){
+        printf("A soma de %d mais %d É MENOR que %d", a, b, c);
+    } else {
+        printf("A soma de %d mais %d NÃO É MENOR que %d", a, b, c);
+    }
+    return 0;
+}
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+//crie um programa em C que receba o valor de venda de uma loja e veja sua forma de pagamento;
+//caso seja PIX 10% de desconto, cartão de débito 5%, dinheiro 20%, cartão de crédito 3% de acrescimo
+//apresente o valor para o usuário;
+#include <stdio.h>
+
+void main()
+{
+    int opera;
+    float num1, desconto, acrescimo, precoDescontado, precoAcrescentado, valorFinal;
+    printf(">[1] pix;\n");
+    printf(">[2] cartão de débito;\n"); 
+    printf(">[3] cartão de crédito;\n");
+    printf(">[4] dinheiro em espécie;\n");
+    printf(">Digite a forma de pagamento: ");
+    scanf("%d", &opera);
+    
+    printf(">Digite o valor da compra: ");
+    scanf("%f", &num1);
+       
+    switch(opera){
+        case 1:
+            desconto = 0.1;
+            precoDescontado = num1 * desconto;
+            valorFinal = num1 - precoDescontado;
+            printf("O valor final da venda no pix é: %.2f", valorFinal);
+        break;
+        
+        case 2:
+            desconto = 0.05;
+            precoDescontado = num1 * desconto;
+            valorFinal = num1 - precoDescontado;
+            printf("O valor final da venda no C.de débito é: %.2f", valorFinal);
+        break;
+        
+        case 3:
+            acrescimo = 0.03;
+            precoAcrescentado = num1 * acrescimo;
+            valorFinal = num1 + precoAcrescentado;
+            printf("O valor final da venda no C.de crédito é: %.2f", valorFinal);
+        break;
+        
+        case 4:
+            desconto = 0.2;
+            precoDescontado = num1 * desconto;
+            valorFinal = num1 - precoDescontado;
+            printf("O valor final da venda no D.em espécie é: %.2f", valorFinal);
+        break;
+        
+        default:
+        printf("escolha uma das operações descritas");
+    }
+}
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
