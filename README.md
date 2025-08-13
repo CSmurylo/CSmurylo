@@ -21,3 +21,80 @@ Sou estudante de Sistemas de Informação, atualmente no 4º período, com inter
         />
     </a>
 </p>
+
+---
+
+### 💻 Tecnologias em que tenho experiência
+
+<div>
+    <img
+        align="left"
+        alt="HTML5"
+        title="HTML5"
+        width="30"
+        style="padding-right: 5px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    />
+    <img 
+        align="left"
+        alt="CSS3"
+        title="CSS3"
+        width="30"
+        style="padding-right: 5px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    />
+    <img 
+        align="left"
+        alt="Java"
+        title="Java"
+        width="30"
+        style="padding-right: 5px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    />
+    <img 
+        align="left"
+        alt="Python"
+        title="Python"
+        width="30"
+        style="padding-right: 5px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+    <img 
+        align="left"
+        alt="JavaScript"
+        title="JavaScript"
+        width="30"
+        style="padding-right: 5px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+    <img 
+        align="left"
+        alt="PHP"
+        title="PHP"
+        width="30"
+        style="padding-right: 5px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    />
+    <img 
+        align="left"
+        alt="React"
+        title="React"
+        width="30"
+        style="padding-right: 5px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    />
+    <img 
+        align="left"
+        alt="Git"
+        title="Git"
+        width="30"
+        style="padding-right: 5px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
+    <br>
+    <br>
+</div>
+
+### 📊 Estatísticas
+
+![Csmurylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Csmurylo&show_icons=true&theme=radical&include_all_commits=true)
