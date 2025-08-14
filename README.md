@@ -1,6 +1,6 @@
 # 🧑🏼‍💻Murylo C. Santos
 
-**Desenvolvedor Full Stack - Entusiasta de Cyber Segurança**
+**Desenvolvedor Full Stack - Entusiasta de Cyber Security**
 
 Sou estudante de Sistemas de Informação, atualmente no 4º período, com interesse em me especializar em Segurança da Informação e no desenvolvimento de software seguro. Como membro fundador do grupo de desenvolvimento [AmazoNext](https://www.instagram.com/amazonext.dev), já participei de diferentes etapas e áreas nos projetos que realizamos. Também atuo como estagiário em TI, adquirindo, na prática, os conhecimentos e habilidades que a função me proporciona. Estou no início da minha trajetória profissional e acadêmica, mas busco constantemente ampliar meus conhecimentos e competências, sempre com o objetivo de evoluir e desempenhar minhas funções da forma mais eficiente e responsável possível.
 
@@ -42,6 +42,14 @@ Sou estudante de Sistemas de Informação, atualmente no 4º período, com inter
         width="30"
         style="padding-right: 5px;"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    />
+    <img 
+        align="left"
+        alt="C"
+        title="C"
+        width="30"
+        style="padding-right: 5px;"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
     />
     <img 
         align="left"
@@ -96,5 +104,20 @@ Sou estudante de Sistemas de Informação, atualmente no 4º período, com inter
 </div>
 
 ### 📊 Estatísticas
+<p>
+    <img 
+        align="left"
+        alt="Estatísticas do GitHub"
+        height="150"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=Csmurylo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+        align="left"
+        alt="Estatísticas do GitHub"
+        height="100"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Csmurylo&theme=tokyonight&layout=compact&locale=pt-br&custom_title=Tecnologias&include_all_commits=true" 
+    />
 
-![Csmurylo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Csmurylo&show_icons=true&theme=radical&include_all_commits=true)
+</p>
