@@ -120,7 +120,7 @@ Sou estudante de Sistemas de Informação, atualmente no 4º período, com inter
             alt="Estatísticas do GitHub"
             height="150"
             style="padding-right: 10px;"
-            src="https://github-readme-stats.vercel.app/api?username=Csmurylo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+            src="https://github-readme-stats.vercel.app/api?username=Csmurylo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=120" 
         />
         <img 
             align="left"
